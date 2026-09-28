@@ -1,0 +1,14 @@
+experiment,outcome,count
+RandomBit,One,513
+RandomBit,Zero,487
+DoubleHadamard,Zero,1000
+BellPair,00,487
+BellPair,11,513
+RandomNumberInRange(7),0,129
+RandomNumberInRange(7),1,120
+RandomNumberInRange(7),2,126
+RandomNumberInRange(7),3,118
+RandomNumberInRange(7),4,108
+RandomNumberInRange(7),5,108
+RandomNumberInRange(7),6,146
+RandomNumberInRange(7),7,145

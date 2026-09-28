@@ -1,0 +1,8 @@
+{
+  "author": "Kaptan",
+  "license": "MIT",
+  "lints": [
+    { "lint": "needlessParens", "level": "warn" },
+    { "lint": "divisionByZero", "level": "error" }
+  ]
+}
