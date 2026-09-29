@@ -1,3 +1,6 @@
+## SUNUM
+Sunum Videosu: https://drive.google.com/file/d/1Cuk3B8Yl0lCZOJCzricWDKfYkTRh0RnB/view?usp=sharing
+
 # Q# ile Grover Arama Algoritması
 
 Microsoft Q# ve QDK ile, sadece simülatör kullanarak yapılmış başlangıç seviyesi bir kuantum programlama projesi. 2 ile 6 kübit (4 ile 64 eleman) arasındaki sırasız bir listede işaretli elemanı Grover algoritmasıyla buluyor. Proje, planın üç fazını takip ediyor: temeller, uygulama, test ve dokümantasyon.
