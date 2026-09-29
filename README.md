@@ -1,5 +1,5 @@
 ## SUNUM
-Sunum Videosu: https://drive.google.com/file/d/1Cuk3B8Yl0lCZOJCzricWDKfYkTRh0RnB/view?usp=sharing
+Sunum Videosu: https://drive.google.com/file/d/1TLtCmJNRjbpAV1w1jBd-V6AaLT4SR4qy/view?usp=sharing
 
 # Q# ile Grover Arama Algoritması
 
